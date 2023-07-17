@@ -22,7 +22,7 @@ Mongodb
 
 ## Descripción de como ejecutar el proyecto
 
-1.Para descargar el proyecto tiene que dirigirse a code y clonar el 2.repositorio, luego abrirlo desde algún editor de código.
+1.Para descargar el proyecto tiene que dirigirse a code y clonar el repositorio, luego abrirlo desde algún editor de código.
 
 Para poder ejecutar el proyecto tiene que escribir en la terminal de su editor de código npm install, npm install mongoose y por último npm run dev
 
